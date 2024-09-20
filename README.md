@@ -44,9 +44,3 @@ I'm Illusion, a passionate 16-year-old self-taught developer with a focus on bot
 </p>
 
 <br> 
-
-## Connect with me 
-
-<a href="https://discord.com/users/1136023740388474880" target="_blank">
-<img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" t=discord style="margin-bottom: 5px;" />
-</a> 
