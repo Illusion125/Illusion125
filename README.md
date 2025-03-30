@@ -2,7 +2,7 @@
 <h2> Hi There.</h2>
 
 <p> 
-I'm Illusion, a passionate 16-year-old self-taught developer with a focus on both backend and frontend programming. Driven by a commitment to excellence, I build high-quality digital solutions designed to meet professional standards.
+I'm Illusion, a passionate 17-year-old self-taught developer with a focus on both backend and frontend programming. Driven by a commitment to excellence, I build high-quality digital solutions designed to meet professional standards.
 </p>
 
 <p align="center">
